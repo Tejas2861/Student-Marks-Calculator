@@ -1,0 +1,7 @@
+C1=int(input("marks of a student C1"))
+C2=int(input("marks of a student C2"))
+C3=int(input("marks of a student C3"))
+C4=int(input("markas of a student C4"))
+C5=int(input("marks of a student C5"))
+C6=int(input("marks of a student C6"))
+print(C1+C2+C3+C4+C5+C6/6)
